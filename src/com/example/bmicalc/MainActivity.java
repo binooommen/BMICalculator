@@ -35,10 +35,10 @@ public class MainActivity extends Activity implements OnClickListener{
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-       inputWeight = (EditText) findViewById(R.id.weightEditText);
-       inputHeight = (EditText) findViewById(R.id.heightEditText);
-       textView1 = (TextView) findViewById(R.id.textView1);
-       resultMessage = (TextView) findViewById(R.id.textView3);
+       inputWeight = (EditText) findViewById(R.id.weightText);
+       inputHeight = (EditText) findViewById(R.id.heightText);
+       textView1 = (TextView) findViewById(R.id.valueTextView);
+       resultMessage = (TextView) findViewById(R.id.resultTextView);
        rdGroup = (RadioGroup) findViewById(R.id.radioGroup1);
        engButton = (RadioButton)findViewById(R.id.engRadioBtn);
        metricButton = (RadioButton)findViewById(R.id.MetricRadioBtn);

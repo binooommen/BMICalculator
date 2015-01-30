@@ -1635,10 +1635,10 @@ containing a value of this type.
         public static final int ic_launcher=0x7f020033;
     }
     public static final class id {
-        public static final int HeightTextView=0x7f050040;
+        public static final int HeightView=0x7f050040;
         public static final int MetricRadioBtn=0x7f050047;
         public static final int RelativeLayout1=0x7f05003f;
-        public static final int WeightTextView=0x7f050042;
+        public static final int WeightView=0x7f050042;
         public static final int action_bar=0x7f050031;
         public static final int action_bar_activity_content=0x7f050018;
         public static final int action_bar_container=0x7f050030;
@@ -1669,7 +1669,7 @@ containing a value of this type.
         public static final int engRadioBtn=0x7f050046;
         public static final int expand_activities_button=0x7f050022;
         public static final int expanded_menu=0x7f050028;
-        public static final int heightEditText=0x7f050041;
+        public static final int heightText=0x7f050041;
         public static final int home=0x7f050015;
         public static final int homeAsUp=0x7f050007;
         public static final int icon=0x7f050026;
@@ -1685,6 +1685,7 @@ containing a value of this type.
         public static final int progress_horizontal=0x7f05001d;
         public static final int radio=0x7f05002b;
         public static final int radioGroup1=0x7f050045;
+        public static final int resultTextView=0x7f050049;
         public static final int search_badge=0x7f050035;
         public static final int search_bar=0x7f050034;
         public static final int search_button=0x7f050036;
@@ -1702,13 +1703,12 @@ containing a value of this type.
         public static final int split_action_bar=0x7f050019;
         public static final int submit_area=0x7f05003c;
         public static final int tabMode=0x7f050003;
-        public static final int textView1=0x7f050048;
         public static final int textView2=0x7f05004a;
-        public static final int textView3=0x7f050049;
         public static final int title=0x7f050027;
         public static final int up=0x7f050016;
         public static final int useLogo=0x7f050005;
-        public static final int weightEditText=0x7f050043;
+        public static final int valueTextView=0x7f050048;
+        public static final int weightText=0x7f050043;
         public static final int withText=0x7f05000e;
         public static final int wrap_content=0x7f050000;
     }
